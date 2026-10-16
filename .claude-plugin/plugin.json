@@ -1,0 +1,18 @@
+{
+  "name": "rove",
+  "version": "1.0.0",
+  "description": "Rove is the supervised browser for AI agents. Your agent drives a real hosted browser; the moment a step needs a person \u2014 a login, a CAPTCHA, a payment, a judgement call \u2014 control hands to a human in a live viewer, then hands back. Persistent profiles, schema extraction, and full audit trails included.",
+  "author": {
+    "name": "NonceLogic",
+    "email": "jg@noncelogic.com"
+  },
+  "homepage": "https://roveapi.com",
+  "repository": "https://github.com/noncelogic/rove-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "browser-automation",
+    "mcp",
+    "supervised-browser",
+    "human-in-the-loop"
+  ]
+}
