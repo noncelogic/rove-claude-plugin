@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rove": {
+      "type": "http",
+      "url": "https://api.roveapi.com/mcp"
+    }
+  }
+}
