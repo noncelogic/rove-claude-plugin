@@ -1,7 +1,7 @@
 {
   "name": "rove",
-  "version": "1.0.0",
-  "description": "Rove is the supervised browser for AI agents. Your agent drives a real hosted browser; the moment a step needs a person \u2014 a login, a CAPTCHA, a payment, a judgement call \u2014 control hands to a human in a live viewer, then hands back. Persistent profiles, schema extraction, and full audit trails included.",
+  "version": "1.0.1",
+  "description": "Rove is the supervised browser for AI agents. Your agent drives a real hosted browser; the moment a step needs a person — a login, a CAPTCHA, a payment, a judgement call — control hands to a human in a live viewer, then hands back. Persistent profiles, schema extraction, and full audit trails included.",
   "author": {
     "name": "NonceLogic",
     "email": "jg@noncelogic.com"
@@ -14,5 +14,7 @@
     "mcp",
     "supervised-browser",
     "human-in-the-loop"
-  ]
+  ],
+  "documentationUrl": "https://roveapi.com/docs",
+  "icon": "./rove-icon-512.png"
 }
